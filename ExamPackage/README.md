@@ -1,1 +1,1 @@
-This is my new NuGet package to make my exam work correctly.
+Here are all the entity classes and the service for creating the logger.
